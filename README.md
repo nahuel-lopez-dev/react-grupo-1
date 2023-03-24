@@ -49,7 +49,7 @@
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0274b3)](https://https://www.linkedin.com/in/evelyn-eduards/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=343941)](https://github.com/EvelynEduards)
 
-#### _Lore Rachich (Alexa)_
+#### _Lore Rachich (Alexa) :alien::_
 
 [![Contact Me](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=Mail.Ru&logoColor=fff&color=c6362c)](mailto:subscrip.lr@gmail.com)
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0274b3)](https://www.linkedin.com/in/lorena-rachich/)
